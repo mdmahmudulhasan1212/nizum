@@ -45,6 +45,12 @@ I'm a passionate and curious programmer with a keen interest in solving complex 
 
 ---
 
+## 🍳 Certified Chef (PCA)
+
+- *Completed a professional cooking course at PCA, earning certification and gaining a deep understanding of culinary arts and techniques.*
+
+---
+
 ## 🎉 Leisure Time
 
 - *Reading books on technology, productivity, and self-growth.*  
@@ -66,6 +72,15 @@ I believe that technology should be used to *empower individuals* and *solve rea
 - *Long-term:* Aim to become an expert in *Machine Learning* and *AI* technologies, working on projects that have a *global impact* on society and the environment.
 
 ---
+
+## 🌍 Languages Spoken
+
+- *Bengali (Bangla)*: Native
+- *English*: Fluent
+- *Hindi*: Intermediate
+- *Urdu*: Basic
+
+ ---
 
 ## 🙏 Thank You!
 
