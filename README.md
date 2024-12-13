@@ -1,5 +1,9 @@
+<header style ="width: 100%; height : 10px;">
+<img src= "me.gif" style="width:100%; height:20%;"/>
+</header>
+
 <h1 align="center">Hi 👋, I'm Md Mahmudul Hasan</h1>
-<h3 align="center">Programming enthusiast and creative problem-solver with expertise in C++, SQL, and database architecture. Investigating new technologies continuously in order to provide scalable and effective solutions.</h3>
+<h3 align="center">Programming enthusiast and innovative problem-solver with knowledge of database architecture, SQL, and C++. researching new technologies on a constant basis to deliver efficient and scalable solutions.</h3>
 
 - 🔭 I’m currently working on *SQL, Entity-Relationship Diagrams (ERD), GitHub, and Programming (C++).*
 - 🌱 I’m currently learning *C++, ERD, SQL*
@@ -11,7 +15,7 @@
 
 ## 🔍 About Me
 
-I'm a passionate and curious programmer with a keen interest in solving complex problems. With expertise in C++, SQL, and database architecture, I am always looking to improve my coding skills and work on challenging projects. I thrive in collaborative environments and enjoy contributing to open-source communities.
+I'm an enthusiastic, inquisitive coder that enjoys finding solutions to challenging issues. I have experience with database architecture, SQL, and C++, and I'm constantly looking to work on difficult projects and sharpen my coding abilities. I like to contribute to open-source groups and do best in collaborative settings.
 
 ---
 
@@ -67,9 +71,9 @@ I believe that technology should be used to *empower individuals* and *solve rea
 
 ## 🎯 Career Goals & Future Plans
 
-- *Short-term:* Focus on building my skills in *system design* and *cloud technologies* to be able to build more scalable and efficient systems.
-- *Mid-term:* Contribute significantly to *open-source projects* and collaborate with like-minded developers on *large-scale* and *innovative* projects.
-- *Long-term:* Aim to become an expert in *Machine Learning* and *AI* technologies, working on projects that have a *global impact* on society and the environment.
+- *Short-term:* To be able to create more scalable and effective systems, I want to concentrate on honing my abilities in *system design* and *cloud technologies*.
+- *Mid-term:* Work alongside like-minded developers on *large-scale* and *innovative* projects and make a substantial contribution to *open-source projects*.
+- *Long-term:* Work on initiatives that have a *global impact* on the environment and society while gaining expertise in *Machine Learning* and *AI* technology.
 
 ---
 
